@@ -16,6 +16,6 @@
 10) Ctrl+C
 
 Далее использовать алгоритм
-[Редактирование кода (добавление новой фичи и т.д.)](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/code-editing/редактирование-кода.md).
+[Редактирование кода (добавление новой фичи и т.д.)](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/code-editing/ru.code-editing.md).
 
 <!-- README.ru.md -->
