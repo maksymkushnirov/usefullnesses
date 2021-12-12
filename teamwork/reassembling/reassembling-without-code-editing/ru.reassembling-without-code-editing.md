@@ -1,10 +1,10 @@
 Полная локальная пересборка проекта без редактирования кода:
 
 1.  полностью удалить папку с проектом с коипьютера
-2.  используйте один из двух вариантов:
+2.  склонируйте репозиторий используя один из двух вариантов:
     - вариант 1: GitHub Desktop --> Clone Again
     - вариант 2: "github .com/username/repositoryname" --> Code --> Open with
-      GitHub Desktop --> Clone Again / Locate
+      GitHub Desktop --> Clone Again
 3.  GitHub Desktop --> Open in Visual Studio Code
 4.  открыть Terminal (Git Bash) нажав комбинацию Ctrl+~ или другим удобным
     способом
