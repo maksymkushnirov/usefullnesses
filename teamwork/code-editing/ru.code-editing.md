@@ -1,6 +1,6 @@
-Перед началом редактирования кода, в случае необходимости, произвести [Полную локальную пересборку проекта без редактирования кода](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/reassembling/reassembling-without-code-editing/пересборка-проекта-без-редактирования-кода.md).
+Перед началом редактирования кода, в случае необходимости, произвести [Полную локальную пересборку проекта без редактирования кода](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/reassembling/reassembling-without-code-editing/ru.reassembling-without-code-editing.md).
 
-В случае наличия кода, который отсутствует на GitHub, и конфликтов при попытке сделать pull request, вместо всех действий, описанных в этом руководстве, ипользовать [Полную локальную пересборку проекта с редактированием кода](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/reassembling/reassembling-with-code-editing/пересборка-проекта-с-редактированием-кода.md).
+В случае наличия кода, который отсутствует на GitHub, и конфликтов при попытке сделать pull request, вместо всех действий, описанных в этом руководстве, ипользовать [Полную локальную пересборку проекта с редактированием кода](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/reassembling/reassembling-with-code-editing/ru.reassembling-with-code-editing.md).
 
 **Редактирование кода (добавление новой фичи и т.д.):**
 
