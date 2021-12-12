@@ -1,4 +1,4 @@
-В случае, если нету кода, который отсутствует на GitHub, достаточно произвести [Полную локальную пересборку проекта без редактирования кода](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/reassembling/reassembling-without-code-editing/пересборка-проекта-без-редактирования-кода.md).
+В случае, если нету кода, который отсутствует на GitHub, достаточно произвести [Полную локальную пересборку проекта без редактирования кода](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/reassembling/reassembling-without-code-editing/ru.reassembling-without-code-editing.md).
 
 Полная локальная пересборка проекта с редактированием кода (выполнить в случае наличия кода, который отсутствует на GitHub, и конфликтов при попытке сделать pull request):
 
@@ -43,7 +43,7 @@
 26) GitHub Desktop --> pull origin (если появится эта кнопка)
 27) GitHub Desktop --> fetch origin
 
-Далее использовать алгоритм [Редактирование кода (добавление новой фичи и т.д.)](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/code-editing/редактирование-кода.md).
+Далее использовать алгоритм [Редактирование кода (добавление новой фичи и т.д.)](https://github.com/maksymkushnirov/usefullnesses/blob/main/teamwork/code-editing/ru.code-editing.md).
 
 
 
